@@ -1,0 +1,22 @@
+Testing my_string class:
+v1 = first second
+v1 size = 12
+v1 capacity = 16
+v1 as [] characters:
+f i r s t   s e c o n d v1 as at() characters:
+f i r s t   s e c o n d 
+
+v4 = abcd
+v4 size = 4
+v4 capacity = 4
+is v4 empty: false
+
+v5 = first second
+v5.insert(5, "ly") and v5.insert(14, "ly"): 
+v5 = firstly secondly
+
+Enter a string:
+v6 = abc
+v6 + " " + v2 = abc first
+v6 + last char of v6 = abcc
+
